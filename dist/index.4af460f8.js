@@ -1,0 +1,1 @@
+let e=document.createElement("style");e.innerHTML="",document.head.appendChild(e);import{w as a}from"./index.81ca0df5.js";var d={name:"Home"};const t=a("data-v-78056f26")(((e,a,d,t,n,o)=>" home "));d.render=t,d.__scopeId="data-v-78056f26";export default d;
